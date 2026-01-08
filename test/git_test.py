@@ -1,7 +1,3 @@
-import boto3
-import os
-import pandas as pd
- 
 class test_class():
     def test_func(spark,args_list):
         print('This is a test script')
